@@ -1,6 +1,5 @@
 # AutoFocusFormer
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![CLUSTEN](https://img.shields.io/badge/CUDA%20Extension-CLUSTEN-red)](clusten/)
 
 AFF-Base: [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/autofocusformer-image-segmentation-off-the/instance-segmentation-on-cityscapes-val)](https://paperswithcode.com/sota/instance-segmentation-on-cityscapes-val?p=autofocusformer-image-segmentation-off-the) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/autofocusformer-image-segmentation-off-the/panoptic-segmentation-on-cityscapes-val)](https://paperswithcode.com/sota/panoptic-segmentation-on-cityscapes-val?p=autofocusformer-image-segmentation-off-the)
